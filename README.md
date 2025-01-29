@@ -1,4 +1,4 @@
-[![CodeGuide](/codeguide-dark-sm.svg)](https://codeguide.dev)
+[![CodeGuide](/codeguide-backdrop.svg)](https://codeguide.dev)
 
 
 # CodeGuide Starter Pro
