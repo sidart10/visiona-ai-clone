@@ -1,6 +1,3 @@
-[![CodeGuide](/codeguide-backdrop.svg)](https://codeguide.dev)
-
-
 # Visiona - AI Clone Creator
 
 Visiona is a web-based platform for creative professionals and enthusiasts to easily create AI clones of themselves using custom-trained models with their photos. The app streamlines AI model training, image generation, and gallery management with a modern, intuitive user interface that emphasizes creativity, security, and ease of use.
